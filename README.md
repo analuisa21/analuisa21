@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu perfil : 
 
-<!--
-**analuisa21/analuisa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Luisa
 
-Here are some ideas to get you started:
+-Estou estudando n o [alura](https://www.alura.com.br)
+-Estou me desenvolvendo na linguagem JavaScript
+-Ultilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contado comigo 📫
+
+ana.luisa.sato@escola.pr.gov.br
+
+@anauisa21
+
+![](https://tenor.com/pt-BR/view/cheeseburgergifs-gif-4511640)
